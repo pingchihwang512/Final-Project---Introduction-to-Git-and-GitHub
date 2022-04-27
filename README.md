@@ -1,7 +1,6 @@
 # Final Project - Introduction to Git and GitHub
 
 - Part 1 GitHub UI 
-- 
 Task 1: submit the URL of the repository 
 
 Task 2: submit the URL of the license file. (LICENSE.md)
@@ -17,7 +16,7 @@ Task 6: submit the URL of the simple-interest.sh file
 Task 7: Submit your GitHub username as entered in the Additional Authors section of the simple-interest.sh file. 
 
 - Part 2 Git CLI 
-- 
+
 Task 6: submit the URL of the forked repository. 
 
 Task 7: submit the URL of the first pull request. 
